@@ -1,4 +1,4 @@
-# This is a python implmentation of the classis bomberman gave
+# This is a python implmentation of the classic bomberman game
 
 ## Instructions:
 
