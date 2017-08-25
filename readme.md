@@ -1,10 +1,10 @@
-#This is a bomberman implementation done for the SSAD project of spring 2017.
+ #This is a bomberman implementation done for the SSAD project of spring 2017.
 
-##Modules:
-###1.Board
-###2.Bomb
-###3.Brick
-###4.Game 
+ ##Modules:
+ ###1.Board 
+ ###2.Bomb
+ ###3.Brick 
+ ###4.Game 
 
 ##How to run :
 ###Go to the directory via terminal and type ./game.py
